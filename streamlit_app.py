@@ -1,8 +1,8 @@
 import streamlit
 
-streamlit.title("ME on coding again")
+streamlit.title('My Parents New Healthy Diner')
 
-streamlit.header ('How AM I?')
-streamlit.text ('here i am trying and hmmm learning')
-streamlit.text ('one code line per day.')
-
+streamlit.header ('Breakfast Menu')
+streamlit.text ('Omega 3 % Blueberry Oatmeal')
+streamlit.text ('Kale, Spinach & Rocket Smoothie')
+streamlit.text ('Hard-boiled Free-Range Egg')
