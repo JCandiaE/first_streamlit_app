@@ -65,11 +65,11 @@ try:
 # output it the screen as a table
 # streamlit.dataframe(fruityvice_normalized)
 
-import snowflake.connector
+#import snowflake.connector
 #import URLerror
 
 #don't run anything past here while we troubleshoot
-streamlit.stop()
+#streamlit.stop()
 
 
 
