@@ -54,7 +54,7 @@ except URLError as e:
 # streamlit.dataframe(fruityvice_normalized)
 
 import snowflake.connector
-from urllib.error import URLerror
+from urllib.error import URLError
 
 #don't run anything past here while we troubleshoot
 streamlit.stop()
